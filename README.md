@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Augmented Reality Applied to Marine Biology - Degree Final Projecy
+# Augmented Reality Applied to Marine Biology - Degree Final Project
 ## Introduction
 Augmented reality, also known as AR, consist in adding layers of information to the real world. This information is added using a medium capable of representing the real world, capturing any picture/video/signal from the real world, preprocessing it and showing it on the medium/device with the new information obtained.
 
@@ -42,7 +41,4 @@ The weights for the CNN model are present in the **app/darknet** folder names as
 ![Original input](img/original.png)
 ![Simple output](img/output1.png)
 ![Detailed output](img/output2.png)
-=======
-# ARMarineBiology
-Final degree project developed by Mateusz Klimas
->>>>>>> 0bb10edbbaee459f2af47f1a0e6a2d2c08e9a0db
+
