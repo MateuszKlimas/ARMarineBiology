@@ -24,11 +24,11 @@ The previous mentioned species are classified because the application has been t
 
 The project is based on the algorithm Yolov3 and CNNs.
 
-# Documentation
+## Documentation
 
 More information can be found in the PDF, containing everything related to this project. It is written up in spanish.
 
-# Source code
+## Source code
 
 In the folder **scriptsImages** can be found several Python files used to work with images in order to clean and prepare the data used. 
 
